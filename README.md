@@ -25,27 +25,52 @@ Here is an image preview of the website in the three different colors:
 
 ### Colors
 
-- **Black Color:** The website in black color showcases an elegant and sophisticated design. The black color scheme adds a touch of professionalism and highlights the content effectively.
-![Black Color](img/IMG_3253.jpeg)
+# موقع تعريفي ملوّن
 
-- **White Color:** The website in white color exudes a clean and minimalist aesthetic. It creates a sense of purity and simplicity, allowing the content to stand out.
-![White Color](img/IMG_3252.jpeg)
+## وصف السكربت
 
-- **Light Blue Color:** The website in light blue color offers a refreshing and soothing visual experience. The light blue hue creates a calming atmosphere and enhances the overall user engagement.
-![Light Blue Color](img/IMG_3254.jpeg)
+هذا السكربت هو صفحة HTML توضح مثالًا بسيطًا لموقع تعريفي. يعرض المطور معلوماته وأعماله ويتضمن نموذج اتصال بسيط للمستخدمين الذين يرغبون في طلب خدمات تطوير المواقع أو التصميم.
 
-## How to Use the Script
+السكربت مصمم لتوفير تصميم جذاب ومتجاوب باستخدام لغات HTML و CSS وإطار العمل Bootstrap. يتضمن السكربت ممارسات تصميم الويب الحديثة ويستخدم رموز الأيقونات Font Awesome لتعزيز تجربة المستخدم وتوفير وصول سريع إلى ملفات التواصل الاجتماعي.
 
-To use the script, follow these steps:
+يحتوي السكربت على نموذج اتصال يسمح للمستخدمين بإدخال اسمهم وعنوان البريد الإلكتروني ورقم الهاتف والرسالة. عند النقر فوق زر الإرسال، يتم معالجة بيانات النموذج وإرسالها إلى المطور للتواصل اللاحق.
 
-1. Copy the provided script into a new HTML file.
-2. Customize the page by modifying the content within the HTML elements and adjusting the CSS styles to suit your preferences.
-3. Update the social media links within the Font Awesome icons to direct users to your own social media profiles.
-4. Save the file with the ".html" extension and open it in a web browser to see the changes.
-5. You can further enhance and customize the script by adding more sections, elements, or integrating additional functionality as needed.
+## المكونات والميزات
 
-Please note that this example is a basic demonstration of an HTML page and does not include server-side features (such as email sending). If you wish to incorporate email functionality, you will need to implement additional server-side code.
+يستخدم السكربت عدة مكونات وميزات، بما في ذلك:
 
-Remember to replace `path/to/image-black.png`, `path/to/image-white.png`, and `path/to/image-lightblue.png` with the actual path or URL of the corresponding images in your project.
+- HTML و CSS: يستخدم HTML لترتيب العناصر في الصفحة، بينما يستخدم CSS لتنسيق النصوص وتعريف المظهر البصري.
+- Bootstrap: يستخدم إطار العمل Bootstrap لإنشاء تصميم استجابة وجميل للموقع. يضمن أن الموقع يتكيف بشكل جيد مع مختلف أحجام الشاشة والأجهزة.
+- رموز الأيقونات Font Awesome: يتم دمج مكتبة رموز الأيقونات Font Awesome لتوفير مجموعة واسعة من الأيقونات الجميلة بما في ذلك رموز الشبكات الاجتماعية الشهيرة.
+- نموذج اتصال بسيط: يتضمن السكربت نموذج اتصال بسيط يستقبل اسم المستخدم وعنوان البريد الإلكتروني ورقم الهاتف والرسالة. يسمح هذا للمستخدمين بالتواصل بسهولة مع المطور للاستفسارات أو طلبات المشاريع.
 
-Feel free to adapt and customize the script to meet your specific project requirements and branding guidelines.
+## معاينة الموقع
+
+هنا صورة معاينة للموقع في ثلاثة ألوان مختلفة:
+
+### الألوان
+
+- **اللون الأسود:** يعرض الموقع باللون الأسود تصميمًا أنيقًا ومتطورًا. يضيف اللون الأسود لمسة من الاحترافية ويبرز المحتوى بشكل فعّال.
+![اللون الأسود](img/IMG_3253.jpeg)
+
+- **اللون الأبيض:** يعرض الموقع باللون الأبيض مظهرًا نظيفًا وبسيطًا. يعطي اللون الأبيض شعورًا بالنقاء والبساطة، مما يسمح للمحتوى بالتألق.
+![اللون الأبيض](img/IMG_3252.jpeg)
+
+- **اللون الأزرق الفاتح:** يعرض الموقع باللون الأزرق الفاتح تجربة بصرية منعشة ومريحة. يخلق اللون الأزرق الفاتح جوًا هادئًا ويعزز مشاركة المستخدم بشكل عام.
+![اللون الأزرق الفاتح](img/IMG_3254.jpeg)
+
+## كيفية استخدام السكربت
+
+لاستخدام السكربت، اتبع هذه الخطوات:
+
+1. قم بنسخ السكربت المقدم في ملف HTML جديد.
+2. قم بتخصيص الصفحة عن طريق تعديل المحتوى داخل عناصر HTML وضبط أنماط CSS لتناسب تفضيلاتك.
+3. حدث روابط وسائل التواصل الاجتماعي في رموز الأيقونات Font Awesome لتوجيه المستخدمين إلى ملفات التواصل الاجتماعي الخاصة بك.
+4. احفظ الملف بامتداد ".html" وافتحه في متصفح الويب لرؤية التغييرات.
+5. يمكنك تعزيز السكربت وتخصيصه بمزيد من الأقسام والعناصر أو دمج وظائف إضافية حسب الحاجة.
+
+يرجى ملاحظة أن هذا المثال هو عرض توضيحي أساسي لصفحة HTML ولا يتضمن ميزات الجانب الخادم (مثل إرسال البريد الإلكتروني). إذا كنت ترغب في دمج وظائف البريد الإلكتروني، فسيكون عليك تنفيذ كود إضافي على الجانب الخادم.
+
+تأكد من استبدال `path/to/image-black.png` و `path/to/image-white.png` و `path/to/image-lightblue.png` بالمسار الفعلي أو العنوان الURL للصور المقابلة في مشروعك.
+
+لا تتردد في تكييف وتخصيص السكربت لتلبية متطلبات المشروع الخاصة بك والتوجيهات الخاصة بالعلامة التجارية.
