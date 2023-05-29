@@ -1,30 +1,5 @@
 # DVTe
 
-# Colorful Portfolio Website
-
-## Script Description
-
-This script is an HTML page that demonstrates a simple example of a portfolio website. It showcases the developer's information, their works, and includes a simple contact form for users who wish to request website development or design services.
-
-The script is designed to provide a visually appealing and responsive layout using HTML, CSS, and the Bootstrap framework. It incorporates modern web design practices and features Font Awesome icons to enhance the user experience and provide quick access to social media profiles.
-
-The contact form included in the script allows users to enter their name, email address, phone number, and message. Upon clicking the submit button, the form data can be processed and sent to the developer for further communication.
-
-## Components and Features
-
-The script utilizes several components and features, including:
-
-- HTML and CSS: HTML is used to structure the elements on the page, while CSS is used to style the text and define the visual appearance.
-- Bootstrap: The Bootstrap framework is employed to create a responsive and aesthetically pleasing design for the website. It ensures that the website adapts well to different screen sizes and devices.
-- Font Awesome Icons: The Font Awesome icon library is integrated to provide a wide range of visually appealing icons, including popular social media icons.
-- Simple Contact Form: The script includes a straightforward contact form that captures the user's name, email address, phone number, and message. This allows users to easily reach out to the developer for inquiries or project requests.
-
-## Website Preview
-
-Here is an image preview of the website in the three different colors:
-
-### Colors
-
 # موقع تعريفي ملوّن
 
 ## وصف السكربت
