@@ -26,7 +26,7 @@ Here is an image preview of the website in the three different colors:
 ### Colors
 
 - **Black Color:** The website in black color showcases an elegant and sophisticated design. The black color scheme adds a touch of professionalism and highlights the content effectively.
-![Black Color]([path/to/image-black.png](https://raw.githubusercontent.com/ma9za/DVTe/main/img/IMG_3253.jpeg))
+![Black Color]([img/IMG_3253.jpeg))
 
 - **White Color:** The website in white color exudes a clean and minimalist aesthetic. It creates a sense of purity and simplicity, allowing the content to stand out.
 ![White Color]([path/to/image-white.png](https://raw.githubusercontent.com/ma9za/DVTe/main/img/IMG_3252.jpeg))
