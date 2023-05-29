@@ -26,13 +26,13 @@ Here is an image preview of the website in the three different colors:
 ### Colors
 
 - **Black Color:** The website in black color showcases an elegant and sophisticated design. The black color scheme adds a touch of professionalism and highlights the content effectively.
-![Black Color](path/to/image-black.png)
+![Black Color]([path/to/image-black.png](https://raw.githubusercontent.com/ma9za/DVTe/main/img/IMG_3253.jpeg))
 
 - **White Color:** The website in white color exudes a clean and minimalist aesthetic. It creates a sense of purity and simplicity, allowing the content to stand out.
-![White Color](path/to/image-white.png)
+![White Color]([path/to/image-white.png](https://raw.githubusercontent.com/ma9za/DVTe/main/img/IMG_3252.jpeg))
 
 - **Light Blue Color:** The website in light blue color offers a refreshing and soothing visual experience. The light blue hue creates a calming atmosphere and enhances the overall user engagement.
-![Light Blue Color](path/to/image-lightblue.png)
+![Light Blue Color]([path/to/image-lightblue.png](https://raw.githubusercontent.com/ma9za/DVTe/main/img/IMG_3254.jpeg))
 
 ## How to Use the Script
 
